@@ -6,8 +6,8 @@
 - Andrew Bevan
 ## Getting Started
 
-1.  Open the main_v2.Rmd to ensure the working directory work.
-2.  Run the script in the R folder to reproduce the analysis.
+1.  Open the main_v2.Rmd to confirm the working directory is correctly set.
+2.  Run the script in the R folder to reproduce the analysis. Processing time is typically over an hour and may vary depending on computer performance.
 3.  Run MC_5h.R and MC_10h.R for sensitivity analysis.
 
 ## Session Info
